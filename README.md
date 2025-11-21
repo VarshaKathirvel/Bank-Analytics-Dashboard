@@ -1,1 +1,1 @@
-# Bank-Analytics-Dashboard
+This project analyzes bank customer and loan datasets using Excel, Power BI, Tableau, and MySQL to understand customer behavior, track loan performance, and identify financial risks. The objective is to deliver clear, data-driven insights that help improve loan approval strategies, reduce defaults, and enhance customer segmentation.
